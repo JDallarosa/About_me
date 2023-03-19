@@ -7,7 +7,7 @@ Sou formada em Química (PUCRS) e tenho Mestrado de Sensoriamento Remoto e Meteo
 
 O mundo dos dados me fascina. Cada dia aprendo algo novo e isso me motiva a querer ir mais longe. 
 
--[x] SQL
--[x] Python
--[x] R
+- [x] SQL
+- [x] Python
+- [x] R
 
