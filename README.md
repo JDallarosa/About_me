@@ -1,9 +1,9 @@
 # Olá Mundo, aqui vou eu!!
 
-### Gremista, mãe, esposa, estudiosa e feliz essa sou eu, Juliana Dallarosa 😁:blush:
+### Gremista, mãe, esposa, estudiosa e feliz!! Essa sou eu: Juliana Dallarosa 😁:blush:
 
-   Sou uma profissional com mais de 14 anos de experiência na indústria de tabaco e que desde Março de 2022 iniciou um processo de transição de carreira.
-   Sou formada em Química (PUCRS) e tenho Mestrado de Sensoriamento Remoto e Meteorologia (UFRGS) e, atualmente, cursando Big Data e Inteligência Analítica, na UNIASSELVI.
+   :office:Sou uma profissional com mais de 14 anos de experiência na indústria de tabaco e que desde Março de 2022 iniciou um processo de transição de carreira.
+  :school: Sou formada em Química (PUCRS) e tenho Mestrado de Sensoriamento Remoto e Meteorologia (UFRGS) e, atualmente, cursando Big Data e Inteligência Analítica, na UNIASSELVI.
 
    O mundo da **Ciência de dados** me fascina. Cada dia aprendo algo novo e isso me motiva a querer ir mais longe.  
    ![foguete12](https://user-images.githubusercontent.com/127895087/226151266-d645de7e-a3d0-41e4-a9db-c4254a7356a7.png)
